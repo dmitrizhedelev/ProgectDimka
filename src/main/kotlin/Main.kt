@@ -8,4 +8,6 @@ fun main(args: Array<String>) {
     val x = 100
     print("1")
     print("2")
+
+    fun f11(){}
 }
