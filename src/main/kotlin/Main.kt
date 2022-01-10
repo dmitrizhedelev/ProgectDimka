@@ -6,4 +6,5 @@ fun main(args: Array<String>) {
     println()
 
     val x = 100
+    print("1")
 }
