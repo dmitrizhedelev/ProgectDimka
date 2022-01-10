@@ -4,4 +4,6 @@ fun main(args: Array<String>) {
     fun f(){}
     fun f2(){}
     println()
+
+    val x = 100
 }
